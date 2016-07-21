@@ -5,9 +5,11 @@
 	],
 	"installed_packages":
 	[
+		"Can I Use",
 		"Color Highlighter",
 		"CSScomb",
 		"Emmet",
+		"Git",
 		"Glue",
 		"Package Control",
 		"PowerShell",
