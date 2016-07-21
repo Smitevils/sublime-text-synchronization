@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Color Highlighter",
+		"CSScomb",
 		"Emmet",
 		"Glue",
 		"Package Control",
