@@ -13,8 +13,13 @@
 		"Emmet",
 		"Git",
 		"Glue",
+		"JSX",
+		"LESS",
 		"Package Control",
 		"PowerShell",
+		"Sass",
+		"SCSS",
+		"Stylus",
 		"Terminal",
 		"Trimmer"
 	]
