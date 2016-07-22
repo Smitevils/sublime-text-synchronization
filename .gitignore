@@ -1,4 +1,19 @@
-*.DS_Store
+# OS generated files #
+######################
 .DS_Store
-Package\ Control.cache
-Package Control.cache
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+#IGNORE ST FILES
+#####################
+bh_unicode_properties.cache
+Package Control.last-run
+Package Control.ca-list
+Package Control.ca-bundle
+Package Control.system-ca-bundle
+Package Control.cache/
+Package Control.ca-certs/
