@@ -1,27 +1,14 @@
-// {
-// 	"auto_upgrade_ignore":
-// 	[
-// 		"Seti_UI"
-// 	],
-// 	"caret_extra_bottom": 3,
-// 	"caret_extra_top": 3,
-// 	"caret_extra_width": 1,
-// 	"color_scheme": "Packages/Seti_UI/Scheme/Seti_orig.tmTheme",
-// 	"font_size": 10,
-// 	"highlight_line": true,
-// 	"ignored_packages":
-// 	[
-// 		"Vintage"
-// 	],
-// 	"theme": "Seti_orig.sublime-theme"
-// }
 {
-    "theme": "Afterglow-orange.sublime-theme",
-    "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
-    "tabs_small": true,
-    "sidebar_size_10": true,
-    "sidebar_row_padding_medium": true,
-    "status_bar_brighter": true,
-    "color_inactive_tabs": true,
-    "tabs_label_not_italic": true
+	"color_inactive_tabs": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"sidebar_row_padding_medium": true,
+	"sidebar_size_10": true,
+	"status_bar_brighter": true,
+	"tabs_label_not_italic": true,
+	"tabs_small": true,
+	"theme": "Afterglow-orange.sublime-theme"
 }
