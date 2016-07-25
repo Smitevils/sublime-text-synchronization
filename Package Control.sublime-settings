@@ -18,6 +18,7 @@
 		"Glue",
 		"Hipster Ipsum",
 		"HTML5",
+		"jQuery",
 		"JSHint",
 		"JSHint Gutter",
 		"JSX",
@@ -25,12 +26,14 @@
 		"Modific",
 		"Package Control",
 		"PowerShell",
+		"Python 3",
 		"Sass",
 		"SCSS",
 		"SideBarEnhancements",
 		"Stylus",
 		"Terminal",
 		"Theme - Afterglow",
-		"Trimmer"
+		"Trimmer",
+		"YandexTranslate"
 	]
 }
